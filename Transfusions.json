@@ -160,9 +160,7 @@
       "volume": "1",
       "last_updated": "1717873321",
       "groups": {
-        "": [
-          "/proxy/api/imgur/chapter/bbfuVhM"
-        ]
+        "": "/proxy/api/imgur/chapter/bbfuVhM"
       }
     }
   }
