@@ -1,9 +1,9 @@
 {
   "title": "SE;ki Doujinshi",
-  "description": "",
+  "description": "SE;ki Doujinshis",
   "artist": "Rukan Kawayama",
   "author": "Rukan Kawayama",
-  "cover": "",
+  "cover": "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/1.jpg?raw=true",
   "chapters": {
     "1": {
       "title": "1",
@@ -11,7 +11,14 @@
       "last_updated": "1717951404",
       "groups": {
         "": [
-          ""
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp1.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp2.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp3.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp4.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp5.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp6.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonusp7.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%200/sekibonuspv8.jpg?raw=true"
         ]
       }
     },
@@ -21,17 +28,45 @@
       "last_updated": "1717951409",
       "groups": {
         "": [
-          ""
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202_002.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_003.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_004.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_005.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_006.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_007.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202b_007b.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202c_008.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202c_009.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202c_010.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/bonus%20%202/SEki%20bonus%202c_011.jpg?raw=true"
         ]
       }
     },
     "3": {
-      "title": "3",
+      "title": "Doki Doki Spring Fever",
       "volume": "",
       "last_updated": "1717951412",
       "groups": {
         "": [
-          ""
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/1.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_001.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_002.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_003.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_004.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_005.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_006.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_007.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_008.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_009.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_010.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_011.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_012.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_013.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_014.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_015.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_016.jpg?raw=true",
+          "https://github.com/aoba-seragakii/manga/blob/main/SE%3Bki%20Doujinshi/Doki%20Doki%20Spring%20Fever/SEki%20bonus_017.jpg?raw=true"
         ]
       }
     }
