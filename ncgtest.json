@@ -1,0 +1,28 @@
+{
+  "title": "ncgtest",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://s6.imgcdn.dev/8OxlK.webp",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1734113636",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/8y3oft.png",
+          "https://i.postimg.cc/Tfn4Jv1n/002.webp"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1734113796",
+      "groups": {
+        "": "/proxy/api/postimg/ZYDcygG"
+      }
+    }
+  }
+}
