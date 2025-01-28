@@ -4,5 +4,21 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1738094143",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=11AT0N9qYW2pfvdQsWxS5QXoJ_a6RGh5I",
+          "https://drive.usercontent.google.com/download?id=1x_ENI6Ko3v-OsyOC00EMy-qGK3BMzdtX",
+          "https://drive.usercontent.google.com/download?id=1Ib2HQeA6le8uQzAfSzOBkDZCD6kvqQoM",
+          "https://drive.usercontent.google.com/download?id=1tCBxziH4oWCpUAL7xGJ0PYgLGvGCp16Q",
+          "https://drive.usercontent.google.com/download?id=1Yxyc0mYPIJEAD88NotV33vqF9Vx_PoKu",
+          "https://drive.usercontent.google.com/download?id=1keEZYhLUY-NObXVm9z-FKpMige21Xt7F"
+        ]
+      }
+    }
+  }
 }
