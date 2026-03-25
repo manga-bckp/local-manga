@@ -1,8 +1,0 @@
-{
-  "title": "aa",
-  "description": "# Header 1\n\n## Header 2\n\n### Header 3\n\n#### Header 4\n\n##### Header 5 (should have capped size)\n\nPlain text for reference.\n\n**Bold text** and __also bold__.\n\n*Italic text* and _also italic_.\n\n**Bold and _italic_ together**\n\n`inline code`\n\nA [Markdown link](https://cubari.moe) and a plain URL: https://example.com\n\nAnother [example link](https://github.com/subject-f/cubari-proxy).\n\nLiteral dashes below (should appear as dashes, not a rule):\n----\nQuotes: \"double\", 'single'.\n\nBrackets: <angle brackets>.\n\nThat’s it! If you see all of the above render with headers, bold, italics, code, and links, Cubari-Flavoured Markdown is working.",
-  "artist": "",
-  "author": "",
-  "cover": "",
-  "chapters": {}
-}
